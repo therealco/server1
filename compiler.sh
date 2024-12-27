@@ -1,1 +1,1 @@
-g++ server.cpp -o server --p $1
+g++ server.cpp -o server --p 12345
